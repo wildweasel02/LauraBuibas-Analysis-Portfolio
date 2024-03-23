@@ -13,3 +13,5 @@ To explore my portfolio:
 2. Open the README.md file in each folder for a brief overview of the projects contained within.
 3. Explore individual projects by opening the respective files or notebooks.
 
+### Additions
+If you have extra time, feel free to check out my 2 applications in my github profile. Proempo-fl was my senior capstone project - it is a mental health web app designed to improved productivity by focusing on student inner health - and then there's a simple journaling app for android operating systems. 
