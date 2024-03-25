@@ -1,3 +1,6 @@
+***Github portfolio is a current work in progress. PowerBI, MS Excel, and additional SQL projects coming soon...
+
+
 Hi friends! Welcome, grab some popcorn and enjoy your stay in my portfolio. 
 
 ## About Me 🚀
@@ -18,4 +21,3 @@ To explore my portfolio:
 If you have extra time, feel free to check out my 2 applications in my github profile. Proempo-fl was my senior capstone project - it is a mental health web app designed to improved productivity by focusing on student inner health - and then there's a simple journaling app for android operating systems. 
 
 
-***Github portfolio is a current work in progress. PowerBI, MS Excel, and additional SQL projects coming soon...
