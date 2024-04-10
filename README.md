@@ -18,6 +18,6 @@ To explore my portfolio:
 
 ---
 #### Additions
-If you have extra time, feel free to check out my 2 applications in my github profile. Proempo-fl was my senior capstone project - it is a mental health web app designed to improved productivity by focusing on student inner health - and then there's a simple journaling app for android operating systems. 
+If you have extra time, feel free to check out my 2 applications in my github profile. Proempo-fl was my senior capstone project - it is a mental health web app designed to improve productivity by focusing on student inner health - and then there's a simple journaling app for android operating systems. 
 
 
